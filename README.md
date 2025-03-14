@@ -1,22 +1,18 @@
-# 免责声明
+# Disclaimer
 
-本研究旨在为了学术和技术交流的目的，探讨商业软件注册限制的绕过方法。
+The purpose of this research is to explore ways to bypass commercial software registration restrictions for academic and technical exchange purposes.
 
-**特别声明：**
+**Special statement：**
 
-1. 本研究仅用于学术研究和技术学习，不得用于任何违法或不正当的目的，包括但不限于商业用途、侵权行为或破坏性操作。
-2. 研究成果的发布不代表对绕过方法的推广或鼓励，也不对任何由此产生的法律责任或后果承担责任。
-3. 用户应自行确保在进行任何相关操作之前，已经获得软件供应商的授权许可，并遵守所有相关法律法规。
-4. 本免责声明不适用于任何违反法律法规的行为，作者不对因使用本研究成果而产生的任何法律责任、经济损失或其他不良后果承担责任。
+1. This research is only used for academic research and technical learning, and may not be used for any illegal or improper purposes, including but not limited to commercial use, tort or destructive operations.
+2. The release of research results does not represent the promotion or encouragement of research methods, nor shall it be liable for any legal responsibilities or consequences arising therefrom.
+3. Users should ensure that they have obtained the authorization of the software vendor and comply with all relevant laws and regulations before performing any relevant operations.
+4. This disclaimer does not apply to any violation of laws and regulations, and the author shall not be liable for any legal liability, economic losses or other adverse consequences arising from the use of this research result.
 
-请使用者在使用本研究成果时，自觉遵守法律法规，并对自己的行为负责。
+Users are requested to consciously abide by laws and regulations when using the results of this research, and to be responsible for their own actions.
 
----
-### 交流群
 [Telegram Group](https://t.me/+40j656PRiB41NTI1)
 
----
-### 请我喝杯咖啡
 If this code helps and you wish to support me:
 - [PayPal: https://paypal.me/wovow](https://paypal.me/wovow)
 
@@ -28,7 +24,7 @@ If this code helps and you wish to support me:
 ## [Surveillance Station 9.2.2_11575](https://archive.synology.com/download/Package/SurveillanceStation)
 
 ---
-### x86_64版本
+### x86_64
 - [Download](https://global.synologydownload.com/download/Package/spk/SurveillanceStation/9.2.2-11575/SurveillanceStation-x86_64-9.2.2-11575.spk)
 - Script:
 ```
@@ -39,7 +35,7 @@ bash <(curl -L https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/
 ## [Surveillance Station 9.2.1_11380](https://archive.synology.com/download/Package/SurveillanceStation)
 
 ---
-### x86_64版本
+### x86_64
 - [Download](https://global.synologydownload.com/download/Package/spk/SurveillanceStation/9.2.1-11380/SurveillanceStation-x86_64-9.2.1-11380.spk)
 - Script:
 ```
@@ -51,7 +47,7 @@ bash <(curl -L https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/
 
 
 ---
-### x86_64版本
+### x86_64
 - [Download](https://global.synologydownload.com/download/Package/spk/SurveillanceStation/9.2.0-11289/SurveillanceStation-x86_64-9.2.0-11289.spk)
 - Script:
 ```
@@ -67,14 +63,14 @@ bash <(curl -L https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/
 ```
 
 ---
-### x86_64-DVA_3221版本
+### x86_64-DVA_3221
 - [Download](https://global.synologydownload.com/download/Package/spk/SurveillanceStation/9.2.0-11289/SurveillanceStation-x86_64-9.2.0-11289_DVA_3221.spk)
 - Script:
 ```
 bash <(curl -L https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/9.2.0_11289/SurveillanceStation-x86_64_dva_3321/install_license)
 ```
 ---
-### armada375版本
+### armada375
 - [Download](https://global.synologydownload.com/download/Package/spk/SurveillanceStation/9.2.0-11289/SurveillanceStation-armada375-9.2.0-11289.spk)
 - Script:
 ```
@@ -82,7 +78,7 @@ bash <(curl -L https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/
 ```
 
 ---
-### armada38x版本
+### armada38x
 - [Download](https://global.synologydownload.com/download/Package/spk/SurveillanceStation/9.2.0-11289/SurveillanceStation-armada38x-9.2.0-11289.spk)
 - Script:
 ```
@@ -90,7 +86,7 @@ bash <(curl -L https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/
 ```
 
 ---
-### armv7版本
+### armv7
 - [Download](https://global.synologydownload.com/download/Package/spk/SurveillanceStation/9.2.0-11289/SurveillanceStation-armv7-9.2.0-11289.spk)
 - Script:
 ```
@@ -98,7 +94,7 @@ bash <(curl -L https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/
 ```
 
 ---
-### armv8版本
+### armv8
 - [Download](https://global.synologydownload.com/download/Package/spk/SurveillanceStation/9.2.0-11289/SurveillanceStation-armv8-9.2.0-11289.spk)
 - Script:
 ```
@@ -106,13 +102,13 @@ bash <(curl -L https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/
 ```
 
 ---
-### 恢复默认授权
+###
 - Script:
 ```
 bash <(curl -L https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/9.2.0_11289/license/remove_license)
 ```
 ---
-### 破解60授权
+### 
 ![License](https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/img/crack_license.png)
 
 
